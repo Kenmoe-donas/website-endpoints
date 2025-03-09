@@ -1,7 +1,6 @@
 google.com
 facebook.com
 youtube.com
-baidu.com
 yahoo.com
 amazon.com
 wikipedia.org
@@ -62,7 +61,6 @@ google.com.mx
 google.ca
 amazon.in
 google.com.hk
-tianya.cn
 amazon.co.uk
 craigslist.org
 pornhub.com
