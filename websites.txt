@@ -83,3 +83,5 @@ google.co.kr
 googleusercontent.com
 testter.gk
 myhomee.tk
+testter.gk
+myhomee.tk
