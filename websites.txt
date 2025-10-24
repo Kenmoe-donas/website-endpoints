@@ -85,3 +85,5 @@ testter.gk
 myhomee.tk
 testter.gk
 myhomee.tk
+kenetfils.store
+test.kenetfils.store
